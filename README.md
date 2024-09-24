@@ -15,7 +15,7 @@ Make sure you have the following installed on your system:
 
 1. Clone the repository:
    
-       git clone https://github.com/R1-cochet/youtube_downloader.git
+       git clone https://github.com/DanielTobs/youtube_downloader.git
        cd youtube_downloader
 
 2. Install yt-dlp:
