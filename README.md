@@ -20,7 +20,7 @@ Make sure you have the following installed on your system:
 
 2. Install yt-dlp:
     
-      pip install yt-dlp
+      `pip install yt-dlp`
 
 3. Install FFmpeg:
    
